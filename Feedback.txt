@@ -1,0 +1,13 @@
+Feedback:
+
+1.(0.0/2.0)
+* Qué significa el estereotipo <<Secuencia>> puesto en Node y Composite?
+* Por qué hay un Task derivado de Composite y uno de Node?
+* Según el diagrama, ningún Composite tiene nodos hijos. Eso es totalmente opuesto a lo que plantea el enunciado, que dice que tiene al menos 1.
+* Si el Root, que está marcado como clase abstracta, no deriva de Node, sino que agrega instancias de Node, qué es Root? Qué hace Root? Es una clase abstracta que no hace nada, según ese diagrama.
+* Falta multiplicidad.
+2.(0.0/3.0)
+* Se pidió la implementación de un árbol de comportamiento; no de una máquina de estados.
+* Interesante que quieran implementar máquinas de estado, que no tocamos en el curso ni me consultaron antes. Sospechoso.
+
+Nota: 0.0
